@@ -85,7 +85,7 @@ const App = () => {
 
     return (
         <div style={{ textAlign: "center", marginTop: "50px" }}>
-            <h1>Math Expression Evaluator</h1>
+            <h1>Math Expression Calculator</h1>
             <form onSubmit={handleSubmit}>
                 <input
                     type="text"
